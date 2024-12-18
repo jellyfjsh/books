@@ -20,8 +20,11 @@
       const bookList = document.getElementById('book-list');
       bookList.innerHTML = books.map(book => `
         <div class="book-item">
-          <div class="dateRead">${book.dateRead}</div> <div class="title"${book.title}</div> – <div class="author"${book.author}</div>, <div class="yearPublished">${book.yearPublished}</div>
-        </div>
+          <span class="dateRead">${book.dateRead}</span>
+          <span class="title">${book.title}</span> – 
+          <span class="author">${book.author}</span>, 
+          <span class="yearPublished">${book.yearPublished}</span>
+          </div>
         
       `).join('');
     }
