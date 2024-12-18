@@ -4,9 +4,13 @@
   <meta charset="UTF-8">
   <title>books</title>
   <style>
+    .dateRead {
+      color: gray;
+      font-size: 0.8em;
+    }
+    
     .title {
       font-style: italic;
-      color: gray;
     }
   </style>
 </head>
@@ -21,6 +25,7 @@
       const bookList = document.getElementById('book-list');
       bookList.innerHTML = books.map(book => `
         <div class="book-item">
+          <span class="dateRead">${book.dateRead}</span>
           <span class="title">${book.title}</span> – 
           <span class="author">${book.author}</span>, 
           <span class="yearPublished">${book.yearPublished}</span>
