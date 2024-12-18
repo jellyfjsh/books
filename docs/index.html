@@ -3,7 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <title>books</title>
-  <style></style>
+  <style>
+    .dateRead a {
+      font-size: .8em;
+    }
+  </style>
 </head>
 <body>
     <div class="book-list" id="book-list">
@@ -16,7 +20,7 @@
       const bookList = document.getElementById('book-list');
       bookList.innerHTML = books.map(book => `
         <div class="book-item">
-          ${book.dateRead} ${book.title} – ${book.author}, ${book.yearPublished}
+          <div class="dateRead">${book.dateRead}</div> <div class="title"${book.title}</div> – <div class="author"${book.author}</div>, <div class="yearPublished">${book.yearPublished}</div>
         </div>
         
       `).join('');
