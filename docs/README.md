@@ -1,1 +1,19 @@
-[The Factory (Hiroko Oyamada)](./books/oyamada2024_Factory.md)
+2024
+[The Factory – Hiroko Oyamada, 2019](./books/oyamada2024_Factory.md)
+[Black Moses - Alain Mabanckou]
+[Intimacies – Katie Kitamura]
+[Ninth Building – Zou Jingzhi]
+[The Metamorphosis – Franz Kafka]
+[Minor Detail – Adania Shibli]
+[The Book of Disquiet – Fernando Pessoa]
+[A Personal Matter – Kenzaburō Ōe]
+[The Plague – Albert Camus]
+[Hillbilly Highway: The Transappalachian Migration and the Making of a White Working Class – Max Fraser]
+[Silencing the Past: Power and the Production of History – Michel-Rolph Trouillot]
+[Essential Essays, Volume 1: Foundations of Cultural Studies – Stuart Hall]
+[A Ritual Geology: Gold and Subterranean Knowledge in Savanna West Africa – Robyn d'Avignon]
+[Dead Weight: Essays on Hunger and Harm – Emmenile Clein]
+[Frankenstein in Baghdad – Ahmed Saadawi
+[The Unknown Cultural Revolution: Life and Change in a Chinese Village – Han Dongping]
+[The Intimacies of Four Continents – Lisa Lowe]
+[Nostalgia for the Future: West Africa after the Cold War – Charles Piot]
