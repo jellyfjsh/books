@@ -35,7 +35,7 @@
       const response = await fetch('books.json');
       const books = await response.json();
       const bookList = document.getElementById('book-list');
-      bookList.innerHTML = books.map(book => 
+      bookList.innerHTML = books.map(book => `
         <div class="book-item">
         <details>
         <summary>
@@ -48,7 +48,7 @@
         </details>
           </div>
         
-      ).join('');
+     `).join('');
     }
     loadBooks();
   </script>
